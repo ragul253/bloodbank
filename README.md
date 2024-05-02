@@ -4,24 +4,24 @@ This project is a Blood Bank Management System, designed to efficiently manage t
 
 ## Features
 
-- **Donor Management:** Keep track of donor information including name, contact details, blood type, and donation history.
-- **Inventory Management:** Monitor blood stock levels, expiration dates, and manage the inventory efficiently.
-- **Blood Request Management:** Handle requests for blood units, track requests, and manage distribution.
-- **User Roles:** Differentiate between admin, staff, and donor roles with specific permissions for each.
-- **Reports:** Generate reports on donor activity, blood stock levels, and distribution history.
-- **Notifications:** Send notifications to donors for upcoming donation camps, and to staff for critical stock levels.
-- **Security:** Ensure data security and privacy with encrypted storage and secure access controls.
+-  Donor Management:  Keep track of donor information including name, contact details, blood type, and donation history.
+-  Inventory Management:  Monitor blood stock levels, expiration dates, and manage the inventory efficiently.
+-  Blood Request Management:  Handle requests for blood units, track requests, and manage distribution.
+-  User Roles:  Differentiate between admin, staff, and donor roles with specific permissions for each.
+-  Reports:  Generate reports on donor activity, blood stock levels, and distribution history.
+-  Notifications:  Send notifications to donors for upcoming donation camps, and to staff for critical stock levels.
+-  Security:  Ensure data security and privacy with encrypted storage and secure access controls.
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP, MySQL
-- **Framework:** Bootstrap for frontend design
-- **Others:** AJAX for dynamic content loading, jQuery for DOM manipulation
+-  Frontend:  HTML, CSS, JavaScript
+-  Backend:  PHP, MySQL
+-  Framework:  Bootstrap for frontend design
+-  Others:  AJAX for dynamic content loading, jQuery for DOM manipulation
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/blood-bank-management.git`
+1. Clone the repository: `git clone https://github.com/ragul253/blood-bank-management.git`
 2. Extrack the Zip file and open then readme file to install
 3. Import the database schema from Sql Folder
 4. Configure the database connection in `config.php`
